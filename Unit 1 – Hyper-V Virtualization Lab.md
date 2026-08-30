@@ -87,6 +87,8 @@ This makes it possible to create an enterprise-style server environment without 
 
 ```text
 Screenshots/01-Hyper-V-Manager.png
+<img width="1919" height="1040" alt="Hyper-V Manager 2" src="https://github.com/user-attachments/assets/34f7b791-60ca-4064-b4d8-6ddec87bd722" />
+
 ```
 
 ---
@@ -121,6 +123,8 @@ The virtual switch provides the network connection required for:
 
 ```text
 Screenshots/02-Virtual-Switch.png
+<img width="716" height="715" alt="Screenshot 2026-08-28 115215" src="https://github.com/user-attachments/assets/d69ee8fd-8bc0-49d4-b60a-c5c4053e11e1" />
+
 ```
 
 ---
@@ -316,7 +320,10 @@ The status of each virtual machine can be monitored directly through Hyper-V Man
 ## Evidence
 
 ```text
-Screenshots/07-VMs-Running.png
+Screenshots/07-VMs.png
+<img width="1919" height="1040" alt="Hyper-V Manager 2" src="https://github.com/user-attachments/assets/a72521a6-6320-4aad-aec7-3a78b206d1e0" />
+
+
 ```
 
 ---
